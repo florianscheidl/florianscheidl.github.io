@@ -1,1 +1,1 @@
-Welcome to my personal website!
+Hello and welcome!
