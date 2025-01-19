@@ -1,11 +1,11 @@
 :root {
-    --background-color: #40626d;
-    --title-color: #dfeef4;
-    --text-color: #f1f4f5;
-    --button-color: #f6f7f7;
-    --button-text-color: #f6f7f7;
-    --button-hover-color: #d7d8d8;
-    --button-hover-text-color: #254958;
+    --background-color: #ffffff52;
+    --title-color: #012855;
+    --text-color: #012855;
+    --button-color: #012855;
+    --button-text-color: #012855;
+    --button-hover-color: #95bfef;
+    --button-hover-text-color: #012855;
 }
 
 
@@ -96,13 +96,13 @@ nav ul li a:active {
         text-align: center;
         margin-bottom: -10px;  /* reduce space */
     }
-  
+
     .profile {
         width: 150px;  /* increase size */
         height: 150px; /* increase size */
         margin: 10px auto; /* center image and increase vertical space */
     }
-  
+
     p {
         text-align: center; /* center align text */
         max-width: 100%; /* prevent text from overflowing */
